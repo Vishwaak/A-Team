@@ -1,0 +1,18 @@
+enum QuestionnaireType {
+  tyres,
+  steering,
+  suspension,
+  horn,
+  brake,
+  signals,
+  speedometer,
+  painting,
+  wiper,
+  body,
+  electricals,
+  finishing,
+  roadTest,
+  glasses,
+  seatBelts,
+  info,
+}
